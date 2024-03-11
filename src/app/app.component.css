@@ -1,0 +1,40 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    background-color: #ffffff;
+    padding-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+    /* position: sticky; */
+    top: 0px;
+    width: 100%;
+}
+
+.billcraft{
+    font-size: 35px;
+    font-weight: 500;
+
+}
+
+a{
+  font-size: 17px;
+  text-decoration: none;
+  color: rgb(21, 21, 100);
+  margin-left: 50px;
+  font-weight: 500;
+    
+}
+a:hover{
+  font-size: 18px;
+  text-decoration: underline;
+  text-decoration-color:rgb(238, 149, 66);
+  
+   }
+
+.use{
+    margin-left: 100px;
+}
